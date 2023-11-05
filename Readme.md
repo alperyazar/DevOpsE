@@ -14,8 +14,6 @@ CI/CD concepts rather than tool source codes.
 
 The content lives here
 
----
-
 ## About me and the goal 🤓
 
 I am [Alper Yazar](https://www.alperyazar.com/) and I define myself as a **"Full
@@ -95,7 +93,7 @@ The content is licensed under [Creative Commons BY-SA
 > the material, they must license the modified material under identical terms.
 
 Check [LICENSE](LICENSE) or [Creative Commons
-Webite](https://creativecommons.org/licenses/by-sa/4.0/) for further
+Website](https://creativecommons.org/licenses/by-sa/4.0/) for further
 information.
 
 `SPDX-License-Identifier: CC-BY-SA-4.0`
